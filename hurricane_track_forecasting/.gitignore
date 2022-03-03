@@ -1,0 +1,6 @@
+# ignore experiments & other lecture notes
+/experimental
+/other
+
+# ignore notebook checkpoints
+.ipynb_checkpoints
